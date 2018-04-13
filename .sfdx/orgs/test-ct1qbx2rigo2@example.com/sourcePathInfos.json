@@ -2,14 +2,14 @@
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523629176949,
             "changeTime": 1523629176949,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523629176950,
             "changeTime": 1523629176950,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -37,22 +37,22 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873442,
-            "changeTime": 1523632873442,
-            "contentHash": "a08f9dd1cf6b8368bbd76e91a61dd8c5be153bfd"
+            "modifiedTime": 1523635944924,
+            "changeTime": 1523635944924,
+            "contentHash": "74a000e9daff5131c24f079c769f23f545042ed8"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523629176952,
             "changeTime": 1523629176952,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,14 +60,14 @@
     [
         "C:\\Users\\eliverani\\GymTracker",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1523629212454,
             "changeTime": 1523629212454,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -75,352 +75,378 @@
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\GymEvent__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\GymEvent__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2158,
             "modifiedTime": 1523632873342,
             "changeTime": 1523632873342,
-            "contentHash": "7c6c6427937b7cec0e169ef5eaceaccd57b05d0c"
+            "contentHash": "7c6c6427937b7cec0e169ef5eaceaccd57b05d0c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Date__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Date__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1523632873349,
             "changeTime": 1523632873349,
-            "contentHash": "803ec7a842f780cd1531335b0ef8a3c8dd90e63a"
+            "contentHash": "803ec7a842f780cd1531335b0ef8a3c8dd90e63a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Distance_m__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Distance_m__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 394,
             "modifiedTime": 1523632873355,
             "changeTime": 1523632873355,
-            "contentHash": "881ef1b0a89be90f67edd639ebd4f10b88a69961"
+            "contentHash": "881ef1b0a89be90f67edd639ebd4f10b88a69961",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Geolocation__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Geolocation__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 404,
             "modifiedTime": 1523632873361,
             "changeTime": 1523632873361,
-            "contentHash": "f797dd1bdb22fe7c2692a05531dd9036ab4a8aaf"
+            "contentHash": "f797dd1bdb22fe7c2692a05531dd9036ab4a8aaf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Type__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Type__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1133,
             "modifiedTime": 1523632873366,
             "changeTime": 1523632873366,
-            "contentHash": "76380a84ed3239fb2e42f1807325823d6c125a1d"
+            "contentHash": "76380a84ed3239fb2e42f1807325823d6c125a1d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Workout_details__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields\\Workout_details__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 375,
             "modifiedTime": 1523632873371,
             "changeTime": 1523632873371,
-            "contentHash": "9f7c4226285b553b48582e282c5f9a6b73f49ad6"
+            "contentHash": "9f7c4226285b553b48582e282c5f9a6b73f49ad6",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\layouts\\GymEvent__c-GymEvent Layout.layout-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\layouts\\GymEvent__c-GymEvent Layout.layout-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 2657,
             "modifiedTime": 1523632873381,
             "changeTime": 1523632873381,
-            "contentHash": "9d0ad72746215fe14404a046e5c1b293644863e8"
+            "contentHash": "9d0ad72746215fe14404a046e5c1b293644863e8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\flexipages\\GymTracker_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\flexipages\\GymTracker_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 384,
             "modifiedTime": 1523632873386,
             "changeTime": 1523632873386,
-            "contentHash": "2386b1d133e8c291b0ed59a843bda781775bda05"
+            "contentHash": "2386b1d133e8c291b0ed59a843bda781775bda05",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\tabs\\GymEvent__c.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\tabs\\GymEvent__c.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1523632873391,
             "changeTime": 1523632873391,
-            "contentHash": "27ae16900e378cc5cff484561347e8963cd32234"
+            "contentHash": "27ae16900e378cc5cff484561347e8963cd32234",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\applications\\GymTracker.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\applications\\GymTracker.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 700,
             "modifiedTime": 1523632873399,
             "changeTime": 1523632873399,
-            "contentHash": "f3979eee4ef206030b7eee027a0fae5483e84e0e"
+            "contentHash": "f3979eee4ef206030b7eee027a0fae5483e84e0e",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4884,
             "modifiedTime": 1523632873406,
             "changeTime": 1523632873406,
-            "contentHash": "637cc6a22afead7f32c468493e4e727d3aeb306a"
+            "contentHash": "637cc6a22afead7f32c468493e4e727d3aeb306a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4884,
             "modifiedTime": 1523632873412,
             "changeTime": 1523632873412,
-            "contentHash": "637cc6a22afead7f32c468493e4e727d3aeb306a"
+            "contentHash": "637cc6a22afead7f32c468493e4e727d3aeb306a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5222,
             "modifiedTime": 1523632873419,
             "changeTime": 1523632873419,
-            "contentHash": "cf7dbb37fb80f5651fbba4b6fff9347cd2a6d735"
+            "contentHash": "cf7dbb37fb80f5651fbba4b6fff9347cd2a6d735",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 18273,
             "modifiedTime": 1523632873435,
             "changeTime": 1523632873435,
-            "contentHash": "58979712295f5e8990d316e74a837f894ab11c64"
+            "contentHash": "58979712295f5e8990d316e74a837f894ab11c64",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 471,
             "modifiedTime": 1523632873448,
             "changeTime": 1523632873448,
-            "contentHash": "61d177df65f5fafc6daea7b8c4872fccc8cf1107"
+            "contentHash": "61d177df65f5fafc6daea7b8c4872fccc8cf1107",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan.asset",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 562742,
             "modifiedTime": 1523632873457,
             "changeTime": 1523632873457,
-            "contentHash": "2984ca3711695552db0ed4bb3e01ff6425f83610"
+            "contentHash": "2984ca3711695552db0ed4bb3e01ff6425f83610",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan1.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan1.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 472,
             "modifiedTime": 1523632873463,
             "changeTime": 1523632873463,
-            "contentHash": "1d4f5adca743549178e5026debac4be4854cf5c0"
+            "contentHash": "1d4f5adca743549178e5026debac4be4854cf5c0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan1.asset",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets\\ManuStan1.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 562742,
             "modifiedTime": 1523632873469,
             "changeTime": 1523632873469,
-            "contentHash": "2984ca3711695552db0ed4bb3e01ff6425f83610"
+            "contentHash": "2984ca3711695552db0ed4bb3e01ff6425f83610",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873343,
+            "modifiedTime": 1523634651884,
             "changeTime": 1523632873343,
-            "contentHash": "b6c96966365b154e3679e297072b5776d269857b"
+            "contentHash": "b6c96966365b154e3679e297072b5776d269857b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873334,
+            "modifiedTime": 1523634651884,
             "changeTime": 1523632873334,
-            "contentHash": "54c158eb26f5c403893ec881032e8b69468e2d73"
+            "contentHash": "54c158eb26f5c403893ec881032e8b69468e2d73",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\objects\\GymEvent__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873368,
+            "modifiedTime": 1523634651915,
             "changeTime": 1523632873368,
-            "contentHash": "07d49112d83a7623d4258f1f063cf3729d81600f"
+            "contentHash": "07d49112d83a7623d4258f1f063cf3729d81600f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873380,
+            "modifiedTime": 1523634651868,
             "changeTime": 1523632873380,
-            "contentHash": "492ed2788112a9302c2b85534f7a8babd709fe20"
+            "contentHash": "492ed2788112a9302c2b85534f7a8babd709fe20",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873385,
+            "modifiedTime": 1523634651852,
             "changeTime": 1523632873385,
-            "contentHash": "3d6aee434e06a030fcdb7c2b80f74defa6a7410d"
+            "contentHash": "3d6aee434e06a030fcdb7c2b80f74defa6a7410d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873390,
+            "modifiedTime": 1523634651950,
             "changeTime": 1523632873390,
-            "contentHash": "ef7d2a97393f6c2f43079eb7586dec7996d68cf8"
+            "contentHash": "ef7d2a97393f6c2f43079eb7586dec7996d68cf8",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873395,
+            "modifiedTime": 1523634651821,
             "changeTime": 1523632873395,
-            "contentHash": "2b2d8098e7755226653ad6dac83bcfb95a644cd2"
+            "contentHash": "2b2d8098e7755226653ad6dac83bcfb95a644cd2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873430,
+            "modifiedTime": 1523634651946,
             "changeTime": 1523632873430,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523634651852,
+            "changeTime": 1523632873465,
+            "contentHash": "bbace9325f1b6463dc4a62e24c22111e57a3772b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\permissionsets\\GymTracker.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\permissionsets\\GymTracker.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 346,
+            "modifiedTime": 1523635944929,
+            "changeTime": 1523635944929,
+            "contentHash": "2cde02cee92c620ec4616f1165f01fa15c4b723d"
+        }
+    ],
+    [
+        "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eliverani\\GymTracker\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1523632873465,
-            "changeTime": 1523632873465,
-            "contentHash": "bbace9325f1b6463dc4a62e24c22111e57a3772b"
+            "modifiedTime": 1523635944927,
+            "changeTime": 1523635944927,
+            "contentHash": "4109346c3bba4bb5d491fafb51d33f44fe855a33"
         }
     ]
 ]
